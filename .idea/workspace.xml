@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddc4c40e-b002-41c6-86d5-6c0fce41d8ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IDEA\IntelliJ IDEA 2019.2.2\plugins\maven\lib\maven3\conf\repository" />
+        <option name="userSettingsFile" value="D:\IDEA\IntelliJ IDEA 2019.2.2\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwTYQu1XgDfPHP8trK0OG8vDa8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aboutstudy\ideaWorkspace\oopgame\src\game" />
+      <recent name="D:\Aboutstudy\ideaWorkspace\oopgame\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.GUI" />
+      <module name="oopgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.GameUI" />
+      <module name="oopgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LGameOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.LGameOne" />
+      <module name="oopgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LGameTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.LGameTwo" />
+      <module name="oopgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Login" />
+      <module name="oopgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.GameUI" />
+        <item itemvalue="Application.LGameTwo" />
+        <item itemvalue="Application.LGameOne" />
+        <item itemvalue="Application.GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddc4c40e-b002-41c6-86d5-6c0fce41d8ce" name="Default Changelist" comment="" />
+      <created>1593335202662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593335202662</updated>
+      <workItem from="1593335207500" duration="12913000" />
+      <workItem from="1593406345341" duration="20021000" />
+      <workItem from="1593498165084" duration="19098000" />
+      <workItem from="1593541221155" duration="6873000" />
+      <workItem from="1600755089951" duration="984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1593335216914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1593335216914" />
+    <state x="765" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1593335614581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="765" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1593335614581" />
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593545262675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1593545262675" />
+    <state x="482" y="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593525923724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="482" y="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1593525923724" />
+    <state x="542" y="95" key="FileChooserDialogImpl" timestamp="1593542744864">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="542" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593542744864" />
+    <state x="453" y="254" key="Github.CreateGistDialog" timestamp="1600756075361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="254" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1600756075361" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom" timestamp="1593550271796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593550271796" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center" timestamp="1593550271796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593550271796" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left" timestamp="1593550271796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593550271796" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right" timestamp="1593550271796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593550271796" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1593541410287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593541410287" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1600755098493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1600755098493" />
+    <state x="262" y="0" width="638" height="680" key="find.popup" timestamp="1600756147971">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="262" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1600756147971" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593335620783">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593335620783" />
+  </component>
+</project>
